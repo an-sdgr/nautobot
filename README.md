@@ -12,6 +12,8 @@ By default, this project deploys the Nautobot application, a single worker conta
 docker compose up
 ```
 
+You can access the webui at `https://localhost:8443/`
+
 ## Getting Started - Plugins
 
 The installation of plugins has a slightly more involved getting started process. See see the [Plugin documentation.](docs/plugins.md).
