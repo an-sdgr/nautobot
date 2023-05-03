@@ -14,6 +14,8 @@ docker compose up
 
 You can access the webui at `https://localhost:8443/`
 
+Credentials are configured in [local.env](local.env) and default to `admin:admin`
+
 ## Getting Started - Plugins
 
 The installation of plugins has a slightly more involved getting started process. See see the [Plugin documentation.](docs/plugins.md).
